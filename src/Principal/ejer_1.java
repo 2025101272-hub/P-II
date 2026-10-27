@@ -13,7 +13,7 @@ import java.util.Scanner;
 public class ejer_1 {
     
     static boolean esPrimo(int n){
-       
+       //sacamos al 0 y 1
         if(n<2){
             return false;
         }
